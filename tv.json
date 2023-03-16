@@ -7,20 +7,5 @@
 		"searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
 		"detailurl": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=detail&ids=",
 		"detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
-	}],
-	"webyuan": [{
-		"name": "人人影视",
-		"playtext": "play",
-		"url": "https://www.rrets.cc/so/?wd=",
-		"imgurl": "https://shp.qpic.cn/wanjiashequ_pic/0/0f3c7d3af3efda8ef4d1f1c1f26f5081/0",
-		"type": 0,
-		"detailtext": "project",
-		"uatext": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-		"searchname": "//div[@class=&&&module-info-heading&&&]/h1/text()",
-		"searchpic": "//img[@class=&&&ls-is-cached lazy lazyload&&&]/@src",
-		"detaillist": "//div[@class=&&&module-play-list&&&]/div/",
-		"detailxl": "//*[@id=&&&y-playList&&&]/div/span/text()",
-		"detailjs": "//a/span/text()",
-		"detailjsurl": "//a/@href"
 	}]
 }
