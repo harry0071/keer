@@ -1,0 +1,11 @@
+{
+	"dyname": "秀色",
+	"dyzuozhe": "111@qq.com",
+	"apiyuan": [{
+		"name": "秀色",
+		"searchurl": "https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/?ac=detail&wd=",
+		"searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+		"detailurl": "https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/?ac=detail&ids=",
+		"detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
+	}]
+}
