@@ -1,0 +1,13 @@
+{
+	"dyname": "电视直播",
+	"dyzuozhe": "11111@qq.com",
+	"apiyuan": [{
+		"name": "直播",
+		"searchurl": "https://www.fastmock.site/mock/6f2635084846136d1f30a04570d07b01/tv/live?",
+		"searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+		"detailurl": "https://www.fastmock.site/mock/6f2635084846136d1f30a04570d07b01/tv/live?",
+		"detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
+	}
+		    
+		   ]
+}
