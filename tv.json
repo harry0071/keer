@@ -1,11 +1,11 @@
 {
 	"dyname": "harry的订阅",
 	"dyzuozhe": "123@qq.com",
-	"apiyuan": [{
-		"name": "👍海外看",
-		"searchurl": "https://haiwaikan.com/api.php/provide/vod/?ac=detail&wd=",
+	"apiyuan": [ {
+		"name": "👍豌豆",
+		"searchurl": "https://ks.wandouzy.cc/api.php/provide/vod/?ac=detail&wd=",
 		"searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-		"detailurl": "https://haiwaikan.com/api.php/provide/vod/?ac=detail&ids=",
+		"detailurl": "https://ks.wandouzy.cc/api.php/provide/vod/?ac=detail&ids=",
 		"detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
 	}, {
 		"name": "👍Ikun",
@@ -13,17 +13,17 @@
 		"searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
 		"detailurl": "https://ikunzyapi.com/api.php/provide/vod?ac=detail&ids=",
 		"detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
+	},{
+		"name": "👍海外看",
+		"searchurl": "https://haiwaikan.com/api.php/provide/vod/?ac=detail&wd=",
+		"searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+		"detailurl": "https://haiwaikan.com/api.php/provide/vod/?ac=detail&ids=",
+		"detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
 	}, {
 		"name": "👍卧龙",
 		"searchurl": "https://collect.wolongzyw.com/api.php/provide/vod/?ac=detail&wd=",
 		"searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
 		"detailurl": "https://collect.wolongzyw.com/api.php/provide/vod/?ac=detail&ids=",
-		"detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
-	}, {
-		"name": "👍豌豆",
-		"searchurl": "https://ks.wandouzy.cc/api.php/provide/vod/?ac=detail&wd=",
-		"searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-		"detailurl": "https://ks.wandouzy.cc/api.php/provide/vod/?ac=detail&ids=",
 		"detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
 	}, {
 		"name": "🐢小龟",
@@ -150,6 +150,12 @@
 		"searchurl": "https://api.foxzyapi.com/api.php/provide/vod/?ac=detail&wd=",
 		"searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
 		"detailurl": "https://api.foxzyapi.com/api.php/provide/vod/?ac=detail&ids=",
+		"detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
+	}, {
+		"name": "1080",
+		"searchurl": "https://api.1080zyku.com/inc/apijson.php/?ac=detail&wd=",
+		"searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+		"detailurl": "https://api.1080zyku.com/inc/apijson.php/?ac=detail&ids=",
 		"detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
 	}],
 	"zhanyuan": [{
